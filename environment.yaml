@@ -1,0 +1,16 @@
+name: cs7643-project
+channels:
+  - defaults
+dependencies:
+  - python==3.12
+  - numpy
+  - pyyaml
+  - matplotlib
+  - jupyter
+  - pytest
+  - tqdm
+
+# torch
+# transformers
+# datasets
+# evaluate
